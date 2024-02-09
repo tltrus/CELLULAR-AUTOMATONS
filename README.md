@@ -3,6 +3,8 @@ C# App
 
 # Few-CAs
 
+https://www.youtube.com/watch?v=LW_Z5eJAMHM
+
 Циклический автомат
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/47fbf940-41f6-44a2-bac2-2742eb482287)
