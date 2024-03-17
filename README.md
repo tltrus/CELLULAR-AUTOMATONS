@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=LW_Z5eJAMHM
 Неограниченный рост
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/21940499-4ceb-4ac8-b57a-4d3bbca68cb8)
+
+
+# Langton's Ant
+
+https://youtu.be/mW62GfIY10k
+
+![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/e5fc9033-a212-401e-b2f7-cfc7cb0304c8)
