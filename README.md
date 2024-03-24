@@ -1,6 +1,12 @@
 # CELLULAR-AUTOMATONS
 C# App
 
+# GameOfLife
+Conway's Game of Life
+https://www.youtube.com/watch?v=v75Wc0BrB-A
+
+![image](https://github.com/tltrus/GAMES/assets/77125487/064b6fe0-8bca-4261-a1e1-cf8ab9d51d10)
+
 # Few-CAs
 
 https://www.youtube.com/watch?v=LW_Z5eJAMHM
