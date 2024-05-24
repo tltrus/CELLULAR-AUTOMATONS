@@ -41,3 +41,13 @@ https://www.youtube.com/watch?v=LW_Z5eJAMHM
 https://youtu.be/mW62GfIY10k
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/e5fc9033-a212-401e-b2f7-cfc7cb0304c8)
+
+
+# Sandpile
+
+Based on #107 — Sandpiles https://thecodingtrain.com/challenges/107-sandpiles
+
+My Youtube:
+
+![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/debaaaf4-7a91-4159-add6-de0b22488a9d)
+
