@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VectorOperation</name>
+    </assembly>
+    <members>
+        <member name="M:VectorOperation.Vector2D.CopyToVector">
+            <summary>
+            Копирование вектора
+            </summary>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.CopyToArray">
+            <summary>
+            Копирование вектора в массив
+            </summary>
+            <returns>Новый массив [x, y]</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Set(System.Double,System.Double)">
+            <summary>
+            Присвоение скалярных значений вектору
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+        </member>
+        <member name="M:VectorOperation.Vector2D.ToString">
+            <summary>
+            Текстовое представление вектора 
+            </summary>
+            <returns>Строка вида "[ x, y ]"</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Add(System.Double,System.Double)">
+            <summary>
+            Сложение вектора со скалярами
+            </summary>
+            <param name="vector"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Add(VectorOperation.Vector2D)">
+            <summary>
+            Сложение двух векторов
+            </summary>
+            <param name="v"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Add(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Сложение двух векторов
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Sub(System.Double,System.Double)">
+            <summary>
+            Вычитание из вектора скаляров
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Sub(VectorOperation.Vector2D)">
+            <summary>
+            Вычитание из вектора другого вектора
+            </summary>
+            <param name="v"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Sub(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Вычитание двух векторов
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Div(System.Double)">
+            <summary>
+            Деление вектора на скаляр
+            </summary>
+            <param name="n"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Div(VectorOperation.Vector2D)">
+            <summary>
+            Деление вектора на другой вектор
+            </summary>
+            <param name="v"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Div(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Divide (деление) двух векторов
+            </summary>
+            <param name="val"></param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Div(VectorOperation.Vector2D,System.Double)">
+            <summary>
+            Деление вектора на скаляр
+            </summary>
+            <param name="v1">Вектор</param>
+            <param name="n">Скаляр</param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Mult(System.Double)">
+            <summary>
+            Multiply (умножение) вектора на число
+            </summary>
+            <param name="n"></param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Mult(VectorOperation.Vector2D,System.Double)">
+            <summary>
+            Multiply (умножение) вектора на число
+            </summary>
+            <param name="v"></param>
+            <param name="val"></param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Dot(VectorOperation.Vector2D)">
+            <summary>
+            Скалярное (Dot) умножение векторов
+            </summary>
+            <param name="v"></param>
+            <returns>Скаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Cross(VectorOperation.Vector2D)">
+            <summary>
+            Векторное произведение векторов. Для 2D результат всегда скаляр, т.к. z = 0
+            </summary>
+            <param name="v"></param>
+            <returns>Скаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Lerp(System.Double,System.Double,System.Double)">
+            <summary>
+            Интерполяция вектора к другому вектору
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <param name="amt">Value between 0.0 (old vector) and 1.0 (new vector). 0.9 is very near the new vector. 0.5 is halfway in between</param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Lerp(VectorOperation.Vector2D,System.Double)">
+            <summary>
+            Интерполяция вектора к другому вектору
+            </summary>
+            <param name="v"></param>
+            <param name="amt">Value between 0.0 (old vector) and 1.0 (new vector). 0.9 is very near the new vector. 0.5 is halfway in between</param>
+            <returns></returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Lerp(VectorOperation.Vector2D,VectorOperation.Vector2D,System.Double)">
+            <summary>
+            Интерполяция вектора к другому вектору
+            </summary>
+            <param name="v1"></param>
+            <param name="v2"></param>
+            <param name="amt">Value between 0.0 (old vector) and 1.0 (new vector). 0.9 is very near the new vector. 0.5 is halfway in between</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.HeadingRad">
+            <summary>
+            Возвращает угол вектора
+            </summary>
+            <returns>Значение угла в радианах</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.HeadingDeg">
+            <summary>
+            Возвращает угол вектора
+            </summary>
+            <returns>Значение угла в градусах [от 0 до 359]</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.angleBetween(VectorOperation.Vector2D)">
+            <summary>
+            Вычисление угла между двумя векторами
+            </summary>
+            <param name="v"></param>
+            <returns>Возвращает угол в радианах</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Rotate(System.Double)">
+            <summary>
+            Поворот вектора на заданный угол
+            </summary>
+            <param name="a">Угол в радианах</param>
+            <returns>Возвращает новый вектор и изменяет текущий</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.MagSq">
+            <summary>
+            Получение квадрата длины вектора
+            </summary>
+            <returns>Скаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Limit(System.Double)">
+            <summary>
+            Ограничение (Limit) длины вектора до max значения
+            </summary>
+            <param name="max">Требуемая максимальная длина вектора</param>
+            <returns>Вектор с лимитированной длиной</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Mag">
+            <summary>
+            Вычисление длины вектора
+            </summary>
+            <param name="vecT"></param>
+            <returns>Скаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Normalize">
+            <summary>
+            Нормализация вектора
+            </summary>
+            <returns>Вектор единичной длины</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.SetMag(System.Int32)">
+            <summary>
+            Задание длины вектора
+            </summary>
+            <param name="n">целочисленная длина</param>
+            <returns></returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.SetMag(System.Double)">
+            <summary>
+            Задание длины вектора
+            </summary>
+            <param name="n">вещественная длина</param>
+            <returns></returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.FromAngle(System.Double,System.Double)">
+            <summary>
+            Создание вектора по углу
+            </summary>
+            <param name="angle">Угол в радианах</param>
+            <param name="length">Длина вектора. По умолчанию длина = 1</param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Random2D(System.Random)">
+            <summary>
+            Создание единичного вектора по случайному углу 2PI
+            </summary>
+            <param name="rnd"></param>
+            <returns>Возвращает новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Dist(VectorOperation.Vector2D)">
+            <summary>
+            Вычисление расстояния между векторами
+            </summary>
+            <param name="v"></param>
+            <returns>Cкаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.Dist(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Вычисление расстояния между двумя векторами
+            </summary>
+            <param name="v1">Вектор 1</param>
+            <param name="v2">Вектор 2</param>
+            <returns>Cкаляр</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.NormalVector(VectorOperation.Vector2D)">
+            <summary>
+            Вычисление перпендикулярного вектора к вектору a
+            </summary>
+            <param name="v">Вектор, к которому строится нормаль</param>
+            <returns>Новый перпендикулярный вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Addition(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Adds two vectors together
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>Новый суммированный вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_UnaryNegation(VectorOperation.Vector2D)">
+            <summary>
+            Изменение вектора на негативный
+            </summary>
+            <param name="value">Вектор</param>
+            <returns>Новый отрицательный вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Subtraction(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Разность векторов
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Multiply(System.Single,VectorOperation.Vector2D)">
+            <summary>
+            Умножение скаляра на вектор
+            </summary>
+            <param name="left">Скаляр</param>
+            <param name="right">Вектор</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Multiply(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Умножение пар элементов обоих векторов
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Multiply(VectorOperation.Vector2D,System.Single)">
+            <summary>
+            Умножение вектора на скаляр
+            </summary>
+            <param name="left">Вектор</param>
+            <param name="right">Скаляр</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Division(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Деление первого вектора на второй вектор
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Division(VectorOperation.Vector2D,System.Single)">
+            <summary>
+            Деление вектора на скаляр
+            </summary>
+            <param name="value1">Вектор</param>
+            <param name="value2">Скаляр</param>
+            <returns>Новый вектор</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Equality(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Returns a value that indicates whether each pair of elements in two specified vectors is equal.
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>true if left and right are equal; otherwise, false.</returns>
+        </member>
+        <member name="M:VectorOperation.Vector2D.op_Inequality(VectorOperation.Vector2D,VectorOperation.Vector2D)">
+            <summary>
+            Returns a value that indicates whether two specified vectors are not equal.
+            </summary>
+            <param name="left">Вектор 1</param>
+            <param name="right">Вектор 2</param>
+            <returns>true if left and right are not equal; otherwise, false.</returns>
+        </member>
+    </members>
+</doc>
