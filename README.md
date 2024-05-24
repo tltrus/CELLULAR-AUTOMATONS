@@ -43,6 +43,16 @@ https://youtu.be/mW62GfIY10k
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/e5fc9033-a212-401e-b2f7-cfc7cb0304c8)
 
 
+# Poison-disc
+
+Based on #33 — Poisson-disc Sampling https://thecodingtrain.com/challenges/33-poisson-disc-sampling
+
+My Youtube: https://youtu.be/u2I69Zk637E
+
+![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/f3ffa6bc-6a80-429d-9c30-c52366aac07a)
+
+
+
 # Sandpile
 
 Based on #107 — Sandpiles https://thecodingtrain.com/challenges/107-sandpiles
