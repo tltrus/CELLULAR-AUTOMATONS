@@ -47,7 +47,7 @@ https://youtu.be/mW62GfIY10k
 
 Based on #107 — Sandpiles https://thecodingtrain.com/challenges/107-sandpiles
 
-My Youtube:
+My Youtube: https://youtu.be/dldI8mwtpls
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/debaaaf4-7a91-4159-add6-de0b22488a9d)
 
