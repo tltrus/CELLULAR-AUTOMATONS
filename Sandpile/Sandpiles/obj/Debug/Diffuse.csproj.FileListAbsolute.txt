@@ -1,0 +1,90 @@
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\bin\Debug\Diffuse.exe.config
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\bin\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\bin\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.csprojAssemblyReference.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\MainWindow.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\App.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse_MarkupCompile.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse_MarkupCompile.lref
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\MainWindow.baml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.g.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.Properties.Resources.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.csproj.GenerateResource.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.csproj.CoreCompileInputs.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.csproj.CopyComplete
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Diffuse\Diffuse\obj\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\bin\Debug\Diffuse.exe.config
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\bin\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\bin\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.csprojAssemblyReference.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\MainWindow.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\App.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse_MarkupCompile.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse_MarkupCompile.lref
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\MainWindow.baml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.g.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.Properties.Resources.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.csproj.GenerateResource.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.csproj.CoreCompileInputs.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.csproj.CopyComplete
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\ReactionDiffusion WPF CodingChallenge 13\Diffuse\obj\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\bin\Debug\Diffuse.exe.config
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\bin\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\bin\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.csprojAssemblyReference.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\MainWindow.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\App.g.cs
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse_MarkupCompile.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse_MarkupCompile.lref
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\MainWindow.baml
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.g.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.Properties.Resources.resources
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.csproj.GenerateResource.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.csproj.CoreCompileInputs.cache
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.csproj.CopyComplete
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\_C#\_Neuro GA Natural\Диффузия\Sandpiles WPF CodingChallenge 107\Diffuse\obj\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.exe.config
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.pdb
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.AssemblyReference.cache
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\MainWindow.g.cs
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\App.g.cs
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse_MarkupCompile.cache
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse_MarkupCompile.lref
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\MainWindow.baml
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.g.resources
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.Properties.Resources.resources
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.GenerateResource.cache
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.CoreCompileInputs.cache
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.CopyComplete
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.exe
+C:\Rus\rexerv\Временно\C#\_Neuro GA Natural\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.exe.config
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\Diffuse.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.pdb
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\bin\Debug\WriteableBitmapEx.Wpf.xml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.AssemblyReference.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\MainWindow.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\App.g.cs
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\MainWindow.baml
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.g.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.GenerateResource.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.csproj.CopyComplete
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.exe
+D:\YandexDisk\YandexDisk\rexerv\Временно\C#\_Neuro GA\Kletka avtomat\CodeChallenge #107 - Sandpiles WPF\Diffuse\obj\Debug\Diffuse.pdb
