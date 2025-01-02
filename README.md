@@ -3,13 +3,13 @@ C# App
 
 # GameOfLife
 Conway's Game of Life
-https://www.youtube.com/watch?v=v75Wc0BrB-A
+- Youtube: https://www.youtube.com/watch?v=v75Wc0BrB-A
 
 ![image](https://github.com/tltrus/GAMES/assets/77125487/064b6fe0-8bca-4261-a1e1-cf8ab9d51d10)
 
 # Few-CAs
 
-https://www.youtube.com/watch?v=LW_Z5eJAMHM
+- Youtube: https://www.youtube.com/watch?v=LW_Z5eJAMHM
 
 Циклический автомат
 
@@ -38,16 +38,15 @@ https://www.youtube.com/watch?v=LW_Z5eJAMHM
 
 # Langton's Ant
 
-https://youtu.be/mW62GfIY10k
+- Youtube: https://youtu.be/mW62GfIY10k
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/e5fc9033-a212-401e-b2f7-cfc7cb0304c8)
 
 
 # Poison-disc
 
-Based on #33 — Poisson-disc Sampling https://thecodingtrain.com/challenges/33-poisson-disc-sampling
-
-My Youtube: https://youtu.be/u2I69Zk637E
+- Based on #33 — Poisson-disc Sampling https://thecodingtrain.com/challenges/33-poisson-disc-sampling
+- Youtube: https://youtu.be/u2I69Zk637E
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/f3ffa6bc-6a80-429d-9c30-c52366aac07a)
 
@@ -55,9 +54,8 @@ My Youtube: https://youtu.be/u2I69Zk637E
 
 # Sandpile
 
-Based on #107 — Sandpiles https://thecodingtrain.com/challenges/107-sandpiles
-
-My Youtube: https://youtu.be/dldI8mwtpls
+- Based on #107 — Sandpiles https://thecodingtrain.com/challenges/107-sandpiles
+- Youtube: https://youtu.be/dldI8mwtpls
 
 ![image](https://github.com/tltrus/CELLULAR-AUTOMATONS/assets/77125487/debaaaf4-7a91-4159-add6-de0b22488a9d)
 
